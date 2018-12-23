@@ -1,0 +1,1 @@
+a:1:{s:10:"index.html";a:2:{i:0;s:47:"assets/img/favicon/apple-touch-icon-180x180.png";i:1;s:45:"assets/img/favicon/android-chrome-192x192.png";}}

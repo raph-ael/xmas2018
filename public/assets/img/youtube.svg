@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="21px" viewBox="0 0 31 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>youtube</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer-Colour" transform="translate(-1199.000000, -58.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <g id="Group" transform="translate(893.000000, 56.000000)">
+                <g id="youtube" transform="translate(306.000000, 2.000000)">
+                    <path d="M24.3156116,0 L6.37379684,0 C2.85364279,0 0,2.70202914 0,6.0351579 L0,14.5276457 C0,17.8607745 2.85364279,20.5628036 6.37379684,20.5628036 L24.3156116,20.5628036 C27.8357656,20.5628036 30.6894084,17.8607745 30.6894084,14.5276457 L30.6894084,6.0351579 C30.6894084,2.70202914 27.8357656,0 24.3156116,0 Z M20.0050572,10.6945918 L11.6130866,14.4844042 C11.3894738,14.5853851 11.1311774,14.4310141 11.1311774,14.1964634 L11.1311774,6.37995563 C11.1311774,6.1420641 11.3962641,5.98788216 11.6203429,6.09541871 L20.0123134,10.1221141 C20.2618224,10.2418163 20.2574953,10.5806257 20.0050572,10.6945918 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
